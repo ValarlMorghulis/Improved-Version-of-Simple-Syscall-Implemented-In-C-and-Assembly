@@ -2,6 +2,8 @@
 
 Compared with Simple-Syscall-Implemented-In-C-and-Assembly, the function of fork has been implemented.
 
+![](out.gif)
+
 ## 一、实验要求
 
 在Simple-Syscall-Implemented-In-C-and-Assembly基础上，增加fork系统调用实现，使得支持如下示范应用运行（仅供参考）：
